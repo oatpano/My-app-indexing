@@ -7,5 +7,5 @@ Create this repository for educate android.
 http://bit.ly/oatrice_app_indexing
 
 <B>Reference.</B><br>
-https://codelabs.developers.google.com/codelabs/app-indexing/#0<br>
-https://developers.google.com/app-indexing/introduction
+https://developers.google.com/app-indexing/introduction<br>
+https://codelabs.developers.google.com/codelabs/app-indexing/#0
